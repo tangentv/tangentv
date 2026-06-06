@@ -34,7 +34,7 @@ Passionate Embedded Software Engineer with experience in designing and developin
 ![Linux](https://img.shields.io/badge/Linux-Developer-yellow)
 ![Git](https://img.shields.io/badge/Git-Version_Control-orange)
 ![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-green)
-![Internet Of Things](https://img.shields.io/badge/Internet-Of-Things-blue)
+![Internet Of Things](https://img.shields.io/badge/IOT-blue)
 ![AI](https://img.shields.io/badge/AI-Learning-brightgreen)
 
 
