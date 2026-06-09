@@ -22,12 +22,12 @@ Passionate Embedded Software Engineer with experience in designing and developin
 
 🚀 About Me
 
-🔹 Embedded Software Developer with expertise in Modern C++ and Linux
-🔹 Strong understanding of Object-Oriented Design and Software Design Patterns
-🔹 Experience developing multithreaded and high-performance applications
-🔹 Skilled in debugging complex systems using GDB and Linux tools
-🔹 Passionate about software architecture, system design, and continuous learning
-🔹 Currently exploring AI and advanced software engineering practices
+🔹 Embedded Software Developer with expertise in Modern C++ and Linux  
+🔹 Strong understanding of Object-Oriented Design and Software Design Patterns  
+🔹 Experience developing multithreaded and high-performance applications  
+🔹 Skilled in debugging complex systems using GDB and Linux tools  
+🔹 Passionate about software architecture, system design, and continuous learning  
+🔹 Currently exploring AI and advanced software engineering practices  
 
 🛠️ Technical Skills
 ![C++](https://img.shields.io/badge/C++-Advanced-blue)
@@ -41,7 +41,7 @@ Passionate Embedded Software Engineer with experience in designing and developin
 
 Core Competencies
 
-Modern C++ (C++11/14/17/20)
+Modern C++ (C++11/14/17/20)  
 Embedded Linux
 Device Driver Development
 Multithreading & Concurrency
@@ -62,26 +62,26 @@ CI/CD and Build Systems
 Embedded software development for smart TV platforms
 Root cause analysis and debugging of complex production issues
 Collaboration with platform and chipset vendors
-Performance optimization and feature integration
-
+Performance optimization and feature integration/
+/
 🚆 Bombardier Signaling Project
 Development and maintenance of railway signaling software
 Exposure to safety-critical software development practices
-Focus on software reliability, maintainability, and quality
-
+Focus on software reliability, maintainability, and quality/
+/
 🚜 CNH Industrial – Precision Systems
 Development of embedded solutions for precision agriculture systems
 Software for tractors and smart farming equipment
-Enhancement of system performance and operational efficiency
-
+Enhancement of system performance and operational efficiency/
+/
 
 🌱 Currently Learning
 
-Learning AI Applications for Embedded Systems
-IOT
-Advanced Modern C++
-Concurrent and Parallel Programming
-Scalable Software Architecture
+Learning AI Applications for Embedded Systems/
+IOT/
+Advanced Modern C++/
+Concurrent and Parallel Programming/
+Scalable Software Architecture/
 
 📈 GitHub Stats
 
