@@ -16,7 +16,7 @@ Hi, I'm Tanvi 👋
 
 Embedded Software Engineer | Modern C++ Developer | Linux Enthusiast
 
-Passionate Embedded Software Engineer with experience in designing and developing high-performance software solutions for consumer electronics, transportation, and precision agriculture domains. Experienced in Modern C++, Linux-based systems, multithreaded applications, device drivers, software architecture, and debugging complex embedded systems.
+Embedded Software Engineer with experience in designing and developing high-performance software solutions for consumer electronics, transportation, and precision agriculture domains. Experienced in Modern C++, Linux-based systems, multithreaded applications, device drivers, software architecture, and debugging complex embedded systems.
 
 
 
